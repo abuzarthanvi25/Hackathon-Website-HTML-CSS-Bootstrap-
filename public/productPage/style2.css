@@ -1,0 +1,58 @@
+@import "../style.css";
+
+.bnn3{
+    background-color: #f5f5f5;
+}
+
+.bnn3links a{
+    text-decoration: none;
+    color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 14px;
+    border-right: 1px solid black
+}
+
+.pd-text{
+    font-size: 14px;
+    color: #575452;
+    line-height: 1.5rem;
+}
+
+.pdHeading{
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.5rem;
+}
+
+.clr1{
+    background-color: #e84c3d;
+    border: 2px solid #575452;
+    width: 30px;
+    height: 30px;
+}
+.clr2{
+    background-color: #5d9cec;
+    width: 30px;
+    height: 30px;
+}
+.clr3{
+    background-color: #a0d468;
+    width: 30px;
+    height: 30px;
+}
+
+.pdBtn{
+    border: none;
+    padding: 10px 30px 10px 30px;
+    background-color: #333e48;
+    font-size: 14px;
+}
+.pdBtn2{
+    border: none;
+    padding: 5px 10px 5px 10px;
+    font-size: 14px;
+    background-color: #e9f9ee;
+    border: 1px solid #4cbb6c;
+    color: #4cbb6c;
+}

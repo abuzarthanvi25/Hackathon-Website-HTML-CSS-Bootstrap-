@@ -1,0 +1,134 @@
+body{
+    font-family: 'Poppins', sans-serif; 
+}
+
+.nav-bar{
+    background-color: #333e48;
+}
+
+.searchBar{
+    border: none;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.searchBarBtn{
+    border: none;
+    border-radius: 0px 5px 5px 0px;
+    background-color: #fed700;
+    padding: 10px 20px 10px 20px;
+    color: #333e48;
+    font-size: 14px;
+}
+
+.navLinks{
+    font-size: 14px;
+}
+
+.nav-links2{
+    font-size: 14px;
+    color: #666666;
+}
+
+.shop-text{
+    color: #2c353ee5;
+    font-size: 16px;
+}
+
+.boat-rocker{
+    background-image: url(https://demo.codezeel.com/prestashop/PRS17/PRS170412/PRS03/img/cms/sub-banner-1.jpg);
+}
+
+.boat-rocker-btns{
+    border: none;
+    background: rgba(0, 0, 0, 0);
+}
+
+.george-jensen{
+    background-image: url(https://demo.codezeel.com/prestashop/PRS17/PRS170412/PRS03/img/cms/sub-banner-2.jpg);
+}
+
+.silkee-women{
+    background-image: url(https://demo.codezeel.com/prestashop/PRS17/PRS170412/PRS03/img/cms/sub-banner-3.jpg);
+}
+
+.lava{
+    background-image: url(https://demo.codezeel.com/prestashop/PRS17/PRS170412/PRS03/img/cms/cms-banner-1.jpg);
+}
+
+.broklyn{
+    background-image: url(https://demo.codezeel.com/prestashop/PRS17/PRS170412/PRS03/img/cms/cms-banner-2.jpg);
+}
+
+.lavabtn{
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.banner2{
+    background-image: url(https://demo.codezeel.com/prestashop/PRS17/PRS170412/PRS03/img/cms/offer-banner.jpg);
+}
+
+.bnn2btn{
+    padding: 10px 20px 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.comments{
+    background-color: #f5f5f5;
+}
+
+.commentsImg{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+}
+
+.commentsText{
+    font-size: 14px;
+    color: #5e6873;
+}
+
+.latestNewsTxt{
+    font-size: 15px;
+    padding-top: 20px;
+    color: #555;
+}
+
+.foot{
+    background-color: #333e48;
+}
+
+.footIcons{
+    color: #fed700;
+}
+
+.footTxt{
+    font-size: 14px;
+}
+
+input{
+    padding: 15px;
+}
+
+.footBorders{
+    border-bottom: 3px solid #fed700;
+}
+
+.carouselHeading{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.carousel-button{
+    padding: 10px 30px 10px 30px;
+    border-radius: 5px;
+    background-color: #333e48;
+    color: white;
+    border: none;
+}
+
+.highlight{
+    background-color: #fed700;
+}
